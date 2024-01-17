@@ -1,14 +1,13 @@
-<h1 align="center">FlexBlog https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png</h1>
+<h1 align="center">FlexBlog :man_technologist:</h1>
 
-🚀 Projeto: Bikcraft
+🚀 Projeto: FlexBlog
 
-📂 Descrição: Desenvolvimento de um website dedicado a bicicletas elétricas.
+📂 Descrição: Desenvolvimento de um website responsivo utilizando CSS Flexbox.
 
 🌐 Curso: [Origamid](https://www.origamid.com/)
 
 ⚙️ Tecnologias Utilizadas:
    - HTML
    - CSS
-   - JavaScript
 
-👁️ Visualize o projeto em: [Bikcraft no Vercel](https://bikcraft-wg.vercel.app/)
+👁️ Visualize o projeto em: [FlexBlog no Vercel](https://flexblog-wg.vercel.app/)
