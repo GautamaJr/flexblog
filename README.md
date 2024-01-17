@@ -2,7 +2,7 @@
 
 🚀 Projeto: FlexBlog
 
-📂 Descrição: Desenvolvimento de um website responsivo utilizando CSS Flexbox.
+📂 Descrição: Desenvolvimento de um website responsivo utilizando as propriedades do CSS Flexbox.
 
 🌐 Curso: [Origamid](https://www.origamid.com/)
 
